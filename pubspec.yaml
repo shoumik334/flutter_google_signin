@@ -51,6 +51,7 @@ dev_dependencies:
 
 # The following section is specific to Flutter packages.
 flutter:
+  uses-material-design: true
   assets:
     - assets/images/car1.png
     - assets/images/car1BG.png
